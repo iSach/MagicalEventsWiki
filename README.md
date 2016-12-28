@@ -1,0 +1,2 @@
+# MagicalEventsWiki
+Magical Events Wiki
